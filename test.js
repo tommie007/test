@@ -1,1 +1,1 @@
-console.log('成功连接了,hahahahah')
+console.log('成功连接了')
